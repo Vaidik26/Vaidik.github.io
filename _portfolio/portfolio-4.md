@@ -19,4 +19,4 @@ collection: portfolio
 
 **🛠 Tech Stack:** Python, LangChain, OpenAI API/HuggingFace, FAISS, Flask
 
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/mediegenie-chatbot)
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/MediGenie)
