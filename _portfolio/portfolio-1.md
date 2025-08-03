@@ -6,11 +6,10 @@ excerpt: " Designed and deployed an end-to-end ML pipeline to predict milk quali
 collection: portfolio
 ---
 
-# 🥛 Milk Quality Classification
 
 > **End-to-End ML Pipeline** to classify milk quality (**Low**, **Medium**, **High**) using physicochemical features like pH, temperature, taste, and fat content.
 
----
+
 
 ## 🔹 Key Features
 - 📊 Built using **GradientBoostingClassifier** for high accuracy  
@@ -19,7 +18,7 @@ collection: portfolio
 - 📦 **DVC** for robust data & model version control  
 - ⚡ Designed to be scalable & reproducible  
 
----
+
 
 ## 🛠 Tech Stack
 **Python**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib/Seaborn**, **Docker**, **DVC**
