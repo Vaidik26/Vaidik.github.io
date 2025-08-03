@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Vaidik's Homepage"
 title_separator          : "-"
 name                     : &name "Vaidik Yadav"
-description              : &description "personal description"
+description              : &description "Data Scientist & AI Engineer focused on ML/DL/NLP/GenAI"
 url                      : "https://vaidik26.github.io/Vaidik.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://vaidik26.github.io/Vaidik.github.io/"
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              :  "💻 Data Scientist & AI Engineer |
                        📊  ML | DL | NLP | MLOps | GenAI | 
-                       🎓 B.Tech CSE (2025) | 
+                        🎓 B.Tech CSE (2025) | 
                        🚀 Passionate about building AI-driven solutions & deploying them to production."
   location         : "482001 Jabalpur, Madhya Pradesh"
   employer         : 
