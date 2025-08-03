@@ -40,12 +40,14 @@ redirect_from:
 
 ## 🧰 Tech Stack & Tools
 
-**Languages:** 🐍 Python, SQL  
-**ML/DL Frameworks:** Scikit-learn, TensorFlow, PyTorch, CatBoost, XGBoost  
-**NLP:** Hugging Face 🤗, LangChain, spaCy  
-**Data Engineering:** Pandas, NumPy, PySpark, DVC  
-**Deployment:** Docker 🐳, MLflow, FastAPI, Flask, GitHub Actions  
-**Visualization:** 📊 Matplotlib, Seaborn, Plotly  
+| 🧩 Category         | ⚙️ Tools & Technologies                                                                          |
+|---------------------|--------------------------------------------------------------------------------------------------|
+| 🐍 **Languages**     | Python, SQL                                                                                      |
+| 🤖 **ML/DL Frameworks** | Scikit-learn, TensorFlow, PyTorch, CatBoost, XGBoost                                            |
+| 💬 **NLP**            | Hugging Face 🤗, LangChain, spaCy                                                                |
+| 🏗️ **Data Engineering** | Pandas, NumPy, PySpark, DVC                                                                      |
+| 🐳 **Deployment**     | Docker, MLflow, FastAPI, Flask, GitHub Actions                                                  |
+| 📊 **Visualization**  | Matplotlib, Seaborn, Plotly                                                                      |
 
 ---
 
