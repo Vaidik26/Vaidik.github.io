@@ -60,8 +60,8 @@ redirect_from:
 ## 🤝 Let’s Connect!
 
 📧 **Email:** vaidiky90@gmail.com  
-💻 **GitHub:** [github.com/vaidik26](https://github.com/vaidik26)  
-🔗 **LinkedIn:** [linkedin.com/in/vaidikyadav](https://linkedin.com/in/vaidikyadav)
+💻 **GitHub:** [Vaidik26](https://github.com/vaidik26)  
+🔗 **LinkedIn:** [Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)
 
 ---
 
