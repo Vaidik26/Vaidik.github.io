@@ -23,3 +23,5 @@ collection: portfolio
 
 ## 🛠 Tech Stack
 **Python**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib/Seaborn**, **Docker**, **DVC**
+
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Milk_Quality)
