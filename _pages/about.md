@@ -16,7 +16,8 @@ redirect_from:
 
 🚀 I specialize in transforming **raw data into real-world AI solutions** that create impact. With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), my expertise lies at the intersection of:
 
-> 🧠 **Machine Learning**, 🧬 **Deep Learning**, 💬 **Natural Language Processing**, and ⚙️ **MLOps**
+> **🧠 ML** • **🧬 DL** • **💬 NLP** • **⚙️ MLOps** — **Turning data into intelligence**
+
 
 ---
 
