@@ -1,7 +1,7 @@
 ---
 title: "🥛 Milk Quality Classification"
 
-excerpt: " Designed and deployed an end-to-end ML pipeline to predict milk quality (Low / Medium / High) using GradientBoosting. Fully containerized with Docker and version-controlled with DVC for reproducibility.<br/><img src='/images/milk.png'>"
+excerpt: " Designed and deployed an end-to-end ML pipeline to predict milk quality (Low / Medium / High) using GradientBoosting. Fully containerized with Docker and version-controlled with DVC for reproducibility. <br/><img src='/images/milk.jpeg'>"
 
 collection: portfolio
 ---
