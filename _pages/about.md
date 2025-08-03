@@ -19,7 +19,6 @@ I’m passionate about turning **data into intelligent solutions** and building 
 ## 🔥 What I’m Great At
 - 🤖 **Machine Learning & Deep Learning** – Classification, Regression, Forecasting, Sequence Modeling (LSTM, Transformers)
 - 🗣 **NLP & LLMs** – Text Classification, Semantic Search, RAG (Retrieval-Augmented Generation), HuggingFace Models
-- 👁 **Computer Vision** – Image Classification, Object Detection, Multimodal AI  
 - ⚙ **MLOps & Deployment** – Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS/Azure/GCP  
 - 🛠 **Data Engineering** – ETL Pipelines, Feature Engineering, PySpark, Databricks  
 
