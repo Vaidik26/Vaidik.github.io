@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me – Vaidik Yadav"
+title: "🙋‍♂️ About Me – *Vaidik Yadav*"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 🙋‍♂️ About Me – *Vaidik Yadav*
+
 
 👋 Hey, I’m **Vaidik Yadav** – a passionate  
 📊 **Data Scientist** | 🤖 **AI Engineer** | 🔬 **ML/DL Enthusiast**
