@@ -13,7 +13,7 @@ title                    : "Vaidik's Homepage"
 title_separator          : "-"
 name                     : &name "Vaidik Yadav"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Vaidik26.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://vaidik26.github.io/sudo-Vaidik.github.io/"
 
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Vaidik Yadav"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              :  "💻 Data Scientist & AI Engineer |
                        📊  ML | DL | NLP | MLOps | GenAI | 
                        🎓 B.Tech CSE (2025) |
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Vaidik Yadav
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
