@@ -7,53 +7,62 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hey there, I’m **Vaidik Yadav**  
-🚀 **Data Scientist | AI Engineer | ML/DL Enthusiast**
+# 🙋‍♂️ About Me – *Vaidik Yadav*
 
-I’m passionate about turning **data into intelligent solutions** and building AI systems that make an impact. With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), I specialize in **Machine Learning, Deep Learning, NLP, and MLOps**.  
-
-💡 My journey blends **analytical problem-solving** with **cutting-edge AI innovations**, from predictive modeling to **Large Language Models (LLMs)** and **multimodal AI**.
+👋 Hey, I’m **Vaidik Yadav** – a passionate  
+📊 **Data Scientist** | 🤖 **AI Engineer** | 🔬 **ML/DL Enthusiast**
 
 ---
 
-## 🔥 What I’m Great At
-- 🤖 **Machine Learning & Deep Learning** – Classification, Regression, Forecasting, Sequence Modeling (LSTM, Transformers)
-- 🗣 **NLP & LLMs** – Text Classification, Semantic Search, RAG (Retrieval-Augmented Generation), HuggingFace Models
-- ⚙ **MLOps & Deployment** – Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS/Azure/GCP  
-- 🛠 **Data Engineering** – ETL Pipelines, Feature Engineering, PySpark, Databricks  
+🚀 I specialize in transforming **raw data into real-world AI solutions** that create impact. With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), my expertise lies at the intersection of:
+
+> 🧠 **Machine Learning**, 🧬 **Deep Learning**, 💬 **Natural Language Processing**, and ⚙️ **MLOps**
 
 ---
 
-## 📌 Featured Projects
-- 🥛 **Milk Quality Classification** – ML pipeline to classify milk grades; fully Dockerized & DVC-tracked  
-- 🏦 **Insurance Premium Prediction** – Fast, generalizable regression model for premium forecasting  
-- 📈 **Stock Price Movement Prediction** – LSTM & Transformer models for time-series forecasting  
-- 🤖 **LLM-Powered RAG Chatbot** – AI assistant with document retrieval & semantic search  
+## 🔥 What I Excel At
+
+- 🤖 **ML/DL Modeling:** Classification, Regression, Time Series, LSTM, Transformers  
+- 💬 **NLP & LLMs:** Text Classification, Semantic Search, RAG (Retrieval-Augmented Generation), Hugging Face  
+- ⚙️ **MLOps & Deployment:** Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS | Azure | GCP  
+- 🏗 **Data Engineering:** ETL Pipelines, Feature Engineering, Feature Scaling  
 
 ---
 
-## 🛠 Tech Arsenal
+## 💼 Highlighted Projects
+
+- 🥛 **Milk Quality Classification** – End-to-end ML pipeline, Dockerized & DVC-tracked  
+- 🏦 **Insurance Premium Prediction** – Regression model for accurate premium forecasting  
+- 📈 **Stock Price Movement Prediction** – LSTM & Transformer-based time-series forecasting  
+- 🤖 **LLM-Powered RAG Chatbot** – Intelligent assistant with semantic search & document retrieval  
+
+---
+
+## 🧰 Tech Stack & Tools
+
 **Languages:** 🐍 Python, SQL  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch, CatBoost, GradientBoosting  
-**NLP:** HuggingFace Transformers, spaCy, LangChain  
-**Data Tools:** Pandas, NumPy, PySpark, DVC  
-**Deployment:** Docker, MLflow, FastAPI, Flask, GitHub Actions  
+**ML/DL Frameworks:** Scikit-learn, TensorFlow, PyTorch, CatBoost, XGBoost  
+**NLP:** Hugging Face 🤗, LangChain, spaCy  
+**Data Engineering:** Pandas, NumPy, PySpark, DVC  
+**Deployment:** Docker 🐳, MLflow, FastAPI, Flask, GitHub Actions  
 **Visualization:** 📊 Matplotlib, Seaborn, Plotly  
 
 ---
 
-## 🌱 Currently Leveling Up In
-- 🎨 **Multimodal Generative AI** (Text + Images)  
-- 🧠 **Advanced LLM Fine-tuning**  
-- ☁ **Cloud-Native AI Pipelines**  
+## 🌱 Currently Exploring
+
+- 🎨 **Multimodal AI** – Text 📝 + Image 🖼️ models  
+- 🧠 **LLM Fine-tuning** – Supervised & PEFT-based optimization  
+- ☁ **Cloud-Native AI Pipelines** – Scalable, production-grade architectures  
 
 ---
 
-## 🤝 Let’s Connect
-📧 **Email:** [vaidiky90@gmail.com](mailto:vaidiky90@gmail.com)  
-💻 **GitHub:** [github.com/vaidik26](https://github.com/Vaidik26)  
-🔗 **LinkedIn:** [linkedin.com/in/vaidikyadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)  
+## 🤝 Let’s Connect!
+
+📧 **Email:** vaidiky90@gmail.com  
+💻 **GitHub:** [github.com/vaidik26](https://github.com/vaidik26)  
+🔗 **LinkedIn:** [linkedin.com/in/vaidikyadav](https://linkedin.com/in/vaidikyadav)
 
 ---
 
-> 💭 *"Data is the new oil, but AI is the refinery that powers the future."*  
+> 💭 *“Data is the new oil, but AI is the refinery that powers the future.”*
