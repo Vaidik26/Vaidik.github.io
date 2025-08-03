@@ -24,7 +24,7 @@ redirect_from:
 
 - 🤖 **ML/DL Modeling:** Classification, Regression, Time Series, LSTM, Transformers  
 - 💬 **NLP & LLMs:** Text Classification, Semantic Search, RAG (Retrieval-Augmented Generation), Hugging Face  
-- ⚙️ **MLOps & Deployment:** Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS | Azure | GCP  
+- ⚙️ **MLOps & Deployment:** Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS, GCP  
 - 🏗 **Data Engineering:** ETL Pipelines, Feature Engineering, Feature Scaling  
 
 ---
