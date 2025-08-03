@@ -25,8 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Vaidik Yadav"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "💻 Data Scientist & AI Engineer \n 📊  ML | DL | NLP | MLOps | GenAI \n 🎓 B.Tech CSE (2025) \n 🚀 Passionate about building AI-driven solutions & deploying them to production."
-  location         : "Jabalpur, Madhya Pradesh"
+  bio              :  "💻 Data Scientist & AI Engineer 
+                       📊  ML | DL | NLP | MLOps | GenAI 
+                       🎓 B.Tech CSE (2025) 
+                       🚀 Passionate about building AI-driven solutions & deploying them to production."
+  location         : "482001 Jabalpur, Madhya Pradesh"
   employer         : 
   uri              : # URL
   email            : "vaidiky90@gmail.com" 
