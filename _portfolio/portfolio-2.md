@@ -1,7 +1,7 @@
 ---
 title: "💰 Insurance Premium Prediction"
 
-excerpt: "Insurance Premium Prediction – Built an ML model to estimate insurance premiums using optimized regression, with Docker & DVC integration.<br/><img src='/Vaidik.github.io/images/insurance.jpeg' alt='Milk Quality Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
+excerpt: "Insurance Premium Prediction – Built an ML model to estimate insurance premiums using optimized regression, with Docker & DVC integration.<br/><img src='/Vaidik.github.io/images/insurance.jpeg' alt='Insurance Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 
 collection: portfolio
