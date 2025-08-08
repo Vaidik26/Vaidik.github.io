@@ -1,27 +1,22 @@
 ---
-title: "🥛 Milk Quality Classification"
+title: " 🩺 MedieGenie – Medical RAG Chatbot"
 
-excerpt: "Designed and deployed an end-to-end ML pipeline to predict milk quality (Low / Medium / High) using GradientBoosting. Fully containerized with Docker and version-controlled with DVC for reproducibility.<br/><img src='/Vaidik.github.io/images/milk.jpeg' alt='Milk Quality Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
+excerpt: "MedieGenie Chatbot 💬🩺 – Developed a RAG-based medical chatbot to answer health-related queries using LangChain and LLMs. Integrated vector databases for semantic search and retrieval of medical knowledge, ensuring accurate and context-aware responses.<br/><img src='/Vaidik.github.io/images/chatbot.jpeg' alt='chatbot Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 
 collection: portfolio
 ---
 
 
-> **End-to-End ML Pipeline** to classify milk quality (**Low**, **Medium**, **High**) using physicochemical features like pH, temperature, taste, and fat content.
+> **End-to-End RAG-based Chatbot** designed to answer medical queries using LLMs, LangChain, and vector databases for precise, context-aware responses.
 
+**🔹 Key Features**
+- 🤖 **LLM-powered responses** for natural and conversational interaction  
+- 📚 **Retrieval-Augmented Generation (RAG)** to pull accurate medical information from trusted sources  
+- 🗂 **Vector database integration** for fast semantic search  
+- 🧠 Context-aware conversation handling for improved answer relevance  
+- 📐 Modular architecture for scalability and easy updates  
 
+**🛠 Tech Stack:** Python, LangChain, OpenAI API/HuggingFace, FAISS, Flask
 
-## 🔹 Key Features
-- 📊 Built using **GradientBoostingClassifier** for high accuracy  
-- 🧹 Extensive **data cleaning** and **feature engineering**  
-- 🐳 **Dockerized** for seamless deployment  
-- 📦 **DVC** for robust data & model version control  
-- ⚡ Designed to be scalable & reproducible  
-
-
-
-## 🛠 Tech Stack
-**Python**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib/Seaborn**, **Docker**, **DVC**
-
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Milk_Quality)
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/MediGenie)
