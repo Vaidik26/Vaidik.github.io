@@ -19,4 +19,4 @@ collection: portfolio
 
 **🛠 Tech Stack:** Python, BeautifulSoup, requests, pandas  
 
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/myntra-scraper)
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Myntra_Review_Project)
