@@ -1,7 +1,7 @@
 ---
 title: " 🩺 MedieGenie – Medical RAG Chatbot"
 
-excerpt: "MedieGenie Chatbot 💬🩺 – Developed a RAG-based medical chatbot to answer health-related queries using LangChain and LLMs. Integrated vector databases for semantic search and retrieval of medical knowledge, ensuring accurate and context-aware responses.<br/><img src='/Vaidik.github.io/images/chatbot.jpeg' alt='chatbot Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
+excerpt: "Developed a RAG-based medical chatbot to answer health-related queries using LangChain and LLMs. Integrated vector databases for semantic search and retrieval of medical knowledge, ensuring accurate and context-aware responses.<br/><img src='/Vaidik.github.io/images/chatbot.jpeg' alt='chatbot Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 
 collection: portfolio
