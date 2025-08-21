@@ -7,65 +7,70 @@ redirect_from:
   - /about.html
 ---
 
+# 👋 Hey, I’m **Vaidik Yadav**  
 
-
-👋 Hey, I’m **Vaidik Yadav** – a passionate  
-📊 **Data Scientist** | 🤖 **AI Engineer** | 🔬 **ML/DL Enthusiast**
-
----
-
-🚀 I specialize in transforming **raw data into real-world AI solutions** that create impact. With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), my expertise lies at the intersection of:
-
-> **🧠 ML** • **🧬 DL** • **💬 NLP** • **⚙️ MLOps** — **Turning data into intelligence**
-
+📊 **Data Scientist in the making** | 🤖 **AI Engineer** | 🔬 **ML/DL Enthusiast** | ✨ **GenAI Explorer**  
 
 ---
 
-## 🔥 What I Excel At
+## 🚀 Who Am I?  
 
-- 🤖 **ML/DL Modeling:** Classification, Regression, Time Series, LSTM, Transformers  
-- 💬 **NLP & LLMs:** Text Classification, Semantic Search, RAG (Retrieval-Augmented Generation), Hugging Face  
+I’m passionate about **building intelligent systems that learn, reason, and create**.  
+With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), I specialize in transforming **raw data → actionable insights → AI-powered solutions**.  
+
+My journey lies at the intersection of:  
+> **🧠 Machine Learning** • **🧬 Deep Learning** • **💬 NLP & LLMs** • **✨ Generative AI** • **⚙️ MLOps**  
+
+---
+
+## 🔥 What I Excel At  
+
+- 🤖 **ML/DL Modeling:** Regression, Classification, Clustering, Time Series (LSTM/Transformers)  
+- 💬 **NLP & LLMs:** Hugging Face 🤗, LangChain, RAG, Prompt Engineering, Semantic Search, Text Summarization  
+- ✨ **Generative AI:** LLM Fine-tuning (LoRA/PEFT), Instruction-tuned Models, Multimodal AI (Text+Image)  
 - ⚙️ **MLOps & Deployment:** Docker 🐳, DVC, MLflow, CI/CD, FastAPI, Flask, AWS, GCP  
-- 🏗 **Data Engineering:** ETL Pipelines, Feature Engineering, Feature Scaling  
+- 🏗 **Data Engineering:** ETL Pipelines, Feature Engineering, Data Preprocessing, PySpark  
 
 ---
 
-## 💼 Highlighted Projects
+## 💼 Highlighted Projects  
 
-- 🥛 **Milk Quality Classification** – End-to-end ML pipeline, Dockerized & DVC-tracked  
-- 🏦 **Insurance Premium Prediction** – Regression model for accurate premium forecasting  
-- 📈 **Stock Price Movement Prediction** – LSTM & Transformer-based time-series forecasting  
-- 🤖 **LLM-Powered RAG Chatbot** – Intelligent assistant with semantic search & document retrieval  
-
----
-
-## 🧰 Tech Stack & Tools
-
-| 🧩 Category         | ⚙️ Tools & Technologies                                                                          |
-|---------------------|--------------------------------------------------------------------------------------------------|
-| 🐍 **Languages**     | Python, SQL                                                                                      |
-| 🤖 **ML/DL Frameworks** | Scikit-learn, TensorFlow, PyTorch, CatBoost, XGBoost                                            |
-| 💬 **NLP**            | Hugging Face 🤗, LangChain, spaCy                                                                |
-| 🏗️ **Data Engineering** | Pandas, NumPy, PySpark, DVC                                                                      |
-| 🐳 **Deployment**     | Docker, MLflow, FastAPI, Flask, GitHub Actions                                                  |
-| 📊 **Visualization**  | Matplotlib, Seaborn, Plotly                                                                      |
+- 🥛 **Milk Quality Classification** → End-to-end ML pipeline (Docker + DVC)  
+- 🏦 **Insurance Premium Prediction** → CatBoost regression with automated pipeline tracking  
+- 📈 **Stock Price Movement Prediction** → LSTM/Transformer deep learning model for time-series forecasting  
+- ⚖️ **Legal Advisor Chatbot (GenAI)** → Indian law-focused RAG assistant powered by Hugging Face + LlamaIndex  
 
 ---
 
-## 🌱 Currently Exploring
+## 🧰 Tech Stack & Tools  
 
-- 🎨 **Multimodal AI** – Text 📝 + Image 🖼️ models  
-- 🧠 **LLM Fine-tuning** – Supervised & PEFT-based optimization  
-- ☁ **Cloud-Native AI Pipelines** – Scalable, production-grade architectures  
+| 🧩 Category             | ⚙️ Tools & Technologies                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| 🐍 **Languages**         | Python, SQL                                                                                               |
+| 🤖 **ML/DL Frameworks**  | Scikit-learn, TensorFlow, PyTorch, CatBoost, XGBoost                                                       |
+| 💬 **NLP & GenAI**       | Hugging Face 🤗, LangChain, spaCy, OpenAI API, LlamaIndex, PEFT (LoRA)                                      |
+| 🏗️ **Data Engineering**   | Pandas, NumPy, PySpark, DVC                                                                               |
+| 🐳 **Deployment/MLOps**  | Docker, MLflow, FastAPI, Flask, GitHub Actions, AWS, GCP                                                   |
+| 📊 **Visualization**     | Matplotlib, Seaborn, Plotly                                                                                |
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌱 Currently Exploring  
+
+- 🎨 **Multimodal GenAI** → AI that unifies **Text 📝 + Images 🖼️**  
+- 🧠 **LLM Fine-tuning & PEFT** → Training efficient domain-specific LLMs  
+- ☁ **Cloud-Native AI Pipelines** → Scaling ML/GenAI systems with **AWS/GCP**  
+- 🔗 **Vector Databases (Pinecone, FAISS, Milvus)** → Powering semantic search and RAG systems  
+
+---
+
+## 🤝 Let’s Connect!  
 
 📧 **Email:** vaidiky90@gmail.com  
 💻 **GitHub:** [Vaidik26](https://github.com/vaidik26)  
-🔗 **LinkedIn:** [Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)
+🔗 **Portfolio:** [vaidik26.github.io](https://vaidik26.github.io/Vaidik.github.io//portfolio/)  
+💼 **LinkedIn:** [Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)  
 
 ---
 
-> 💭 *“Data is the new oil, but AI is the refinery that powers the future.”*
+> 💭 *“Data is the new oil, but **Generative AI is the refinery** that powers the future.”*  
