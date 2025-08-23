@@ -64,12 +64,50 @@ My journey lies at the intersection of:
 
 ---
 
-## 🤝 Let’s Connect!  
+## 🤝 Let's Connect!  
 
-📧 **Email:** vaidiky90@gmail.com  
-💻 **GitHub:** [Vaidik26](https://github.com/vaidik26)  
-🔗 **Portfolio:** [vaidik26.github.io](https://vaidik26.github.io/Vaidik.github.io//portfolio/)  
-💼 **LinkedIn:** [Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease;">
+
+### 📧 **Email**  
+**vaidiky90@gmail.com**  
+*Ready to collaborate on exciting AI/ML projects!*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
+
+### 💻 **GitHub**  
+**[Vaidik26](https://github.com/vaidik26)**  
+*Explore my open-source contributions & projects*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease;">
+
+### 🔗 **Portfolio**  
+**[vaidik26.github.io](https://vaidik26.github.io/Vaidik.github.io//portfolio/)**  
+*View my complete project showcase*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(67, 233, 123, 0.3); transition: transform 0.3s ease;">
+
+### 💼 **LinkedIn**  
+**[Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)**  
+*Connect professionally & stay updated*
+
+</div>
+
+</div>
+
+<div style="text-align: center; margin: 2rem 0; padding: 1.5rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
+
+### 🚀 **Ready to Build Something Amazing?**  
+*Let's discuss how we can leverage AI/ML to solve real-world challenges together!*
+
+</div>
 
 ---
 
