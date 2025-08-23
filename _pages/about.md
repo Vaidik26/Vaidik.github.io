@@ -296,12 +296,14 @@ My journey lies at the intersection of:
   font-size: 2.5rem;
   margin-bottom: 1rem;
   color: var(--text-color, #2c3e50);
+  font-weight: bold;
 }
 
 .about-subtitle {
   font-size: 1.2rem;
   margin-bottom: 2rem;
   color: var(--text-muted, #7f8c8d);
+  font-weight: 500;
 }
 
 .hero-section {
@@ -311,11 +313,14 @@ My journey lies at the intersection of:
   border-radius: 15px;
   margin-bottom: 2rem;
   text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
 .hero-title {
   margin: 0;
   font-size: 1.5rem;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
 }
 
 .hero-badges {
@@ -324,11 +329,14 @@ My journey lies at the intersection of:
 }
 
 .hero-badge {
-  background: var(--hero-badge-bg, rgba(255,255,255,0.2));
+  background: var(--hero-badge-bg, rgba(255,255,255,0.25));
   padding: 0.5rem 1rem;
   border-radius: 25px;
   margin: 0.5rem;
   display: inline-block;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.3);
+  font-weight: 500;
 }
 
 .intro-box {
@@ -337,6 +345,7 @@ My journey lies at the intersection of:
   border-radius: 10px;
   border-left: 5px solid var(--accent-color, #3498db);
   margin-bottom: 2rem;
+  box-shadow: 0 2px 10px var(--card-shadow, rgba(0,0,0,0.1));
 }
 
 .transformation-flow {
@@ -351,12 +360,15 @@ My journey lies at the intersection of:
   margin: 0.5rem;
   display: inline-block;
   color: var(--flow-step-color, #2980b9);
+  font-weight: 500;
+  border: 1px solid var(--flow-step-border, #b3d9ff);
 }
 
 .flow-arrow {
   font-size: 1.5rem;
   margin: 0 1rem;
-  color: var(--text-muted, #7f8c8d);
+  color: var(--flow-arrow-color, #7f8c8d);
+  font-weight: bold;
 }
 
 .intersection-tags {
@@ -371,6 +383,8 @@ My journey lies at the intersection of:
   border-radius: 25px;
   font-weight: bold;
   color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
 .ml-tag { background: var(--ml-gradient, linear-gradient(45deg, #ff6b6b, #ee5a24)); }
@@ -392,6 +406,12 @@ My journey lies at the intersection of:
   border-radius: 15px;
   padding: 1.5rem;
   box-shadow: 0 4px 15px var(--card-shadow, rgba(0,0,0,0.1));
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.competency-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px var(--card-shadow, rgba(0,0,0,0.15));
 }
 
 .ml-card { border-color: var(--ml-color, #e74c3c); }
@@ -403,6 +423,8 @@ My journey lies at the intersection of:
 .card-title {
   margin-top: 0;
   color: var(--card-title-color, inherit);
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .ml-card .card-title { color: var(--ml-color, #e74c3c); }
@@ -414,6 +436,12 @@ My journey lies at the intersection of:
 .card-list {
   margin: 0;
   padding-left: 1.5rem;
+  color: var(--text-color, inherit);
+}
+
+.card-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
 }
 
 .projects-section {
@@ -422,11 +450,14 @@ My journey lies at the intersection of:
   padding: 2rem;
   border-radius: 15px;
   margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
 .section-title {
   margin: 0 0 1.5rem 0;
   text-align: center;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
 }
 
 .projects-grid {
@@ -436,10 +467,17 @@ My journey lies at the intersection of:
 }
 
 .project-card {
-  background: var(--project-card-bg, rgba(255,255,255,0.1));
+  background: var(--project-card-bg, rgba(255,255,255,0.15));
   padding: 1rem;
   border-radius: 10px;
   text-align: center;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: transform 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-2px);
 }
 
 .project-icon {
@@ -447,11 +485,23 @@ My journey lies at the intersection of:
   margin-bottom: 0.5rem;
 }
 
+.project-card strong {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.project-card small {
+  opacity: 0.9;
+  font-size: 0.9rem;
+}
+
 .tech-section {
   background: var(--card-bg, #f8f9fa);
   padding: 2rem;
   border-radius: 15px;
   margin-bottom: 2rem;
+  box-shadow: 0 2px 10px var(--card-shadow, rgba(0,0,0,0.1));
 }
 
 .tech-grid {
@@ -463,6 +513,8 @@ My journey lies at the intersection of:
 .tech-category-title {
   margin-bottom: 1rem;
   color: var(--tech-title-color, inherit);
+  font-weight: bold;
+  font-size: 1.1rem;
 }
 
 .languages-title { color: var(--languages-color, #e74c3c); }
@@ -483,6 +535,8 @@ My journey lies at the intersection of:
   border-radius: 20px;
   font-size: 0.9rem;
   color: white;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 .languages-tag { background: var(--languages-color, #e74c3c); }
@@ -498,6 +552,7 @@ My journey lies at the intersection of:
   padding: 2rem;
   border-radius: 15px;
   margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
 .research-grid {
@@ -507,10 +562,17 @@ My journey lies at the intersection of:
 }
 
 .research-card {
-  background: var(--research-card-bg, rgba(255,255,255,0.1));
+  background: var(--research-card-bg, rgba(255,255,255,0.15));
   padding: 1.5rem;
   border-radius: 10px;
   text-align: center;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: transform 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-2px);
 }
 
 .research-icon {
@@ -520,11 +582,14 @@ My journey lies at the intersection of:
 
 .research-title {
   margin: 0 0 0.5rem 0;
+  font-weight: bold;
+  font-size: 1.1rem;
 }
 
 .research-desc {
   margin: 0;
   font-size: 0.9rem;
+  opacity: 0.9;
 }
 
 .contact-section {
@@ -534,6 +599,7 @@ My journey lies at the intersection of:
   border-radius: 15px;
   text-align: center;
   margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
 .contact-grid {
@@ -543,9 +609,16 @@ My journey lies at the intersection of:
 }
 
 .contact-card {
-  background: var(--contact-card-bg, rgba(255,255,255,0.1));
+  background: var(--contact-card-bg, rgba(255,255,255,0.15));
   padding: 1rem;
   border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: transform 0.2s ease;
+}
+
+.contact-card:hover {
+  transform: translateY(-2px);
 }
 
 .contact-icon {
@@ -553,13 +626,22 @@ My journey lies at the intersection of:
   margin-bottom: 0.5rem;
 }
 
+.contact-card strong {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
 .contact-link {
   color: var(--contact-link-color, #3498db);
   text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
 }
 
 .contact-link:hover {
   text-decoration: underline;
+  color: var(--contact-link-hover, #5dade2);
 }
 
 .quote-section {
@@ -570,6 +652,12 @@ My journey lies at the intersection of:
   text-align: center;
   font-style: italic;
   font-size: 1.1rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+.quote-section strong {
+  font-weight: bold;
 }
 
 /* Dark mode overrides */
@@ -578,14 +666,20 @@ My journey lies at the intersection of:
     --text-color: #ecf0f1;
     --text-muted: #bdc3c7;
     --card-bg: #2c3e50;
-    --card-shadow: rgba(0,0,0,0.3);
+    --card-shadow: rgba(0,0,0,0.4);
     --card-title-color: #ecf0f1;
-    --project-card-bg: rgba(255,255,255,0.05);
-    --research-card-bg: rgba(255,255,255,0.05);
+    --project-card-bg: rgba(255,255,255,0.08);
+    --research-card-bg: rgba(255,255,255,0.08);
     --contact-bg: #34495e;
     --contact-text: #ecf0f1;
-    --contact-card-bg: rgba(255,255,255,0.05);
+    --contact-card-bg: rgba(255,255,255,0.08);
     --contact-link-color: #74b9ff;
+    --contact-link-hover: #a29bfe;
+    --flow-step-bg: #34495e;
+    --flow-step-color: #74b9ff;
+    --flow-step-border: #2c3e50;
+    --flow-arrow-color: #bdc3c7;
+    --hero-badge-bg: rgba(255,255,255,0.15);
   }
 }
 
@@ -594,15 +688,58 @@ My journey lies at the intersection of:
   :root {
     --text-color: #2c3e50;
     --text-muted: #7f8c8d;
-    --card-bg: #f8f9fa;
+    --card-bg: #ffffff;
     --card-shadow: rgba(0,0,0,0.1);
     --card-title-color: inherit;
-    --project-card-bg: rgba(255,255,255,0.1);
-    --research-card-bg: rgba(255,255,255,0.1);
+    --project-card-bg: rgba(255,255,255,0.2);
+    --research-card-bg: rgba(255,255,255,0.2);
     --contact-bg: #2c3e50;
     --contact-text: white;
-    --contact-card-bg: rgba(255,255,255,0.1);
+    --contact-card-bg: rgba(255,255,255,0.15);
     --contact-link-color: #3498db;
+    --contact-link-hover: #2980b9;
+    --flow-step-bg: #e8f4fd;
+    --flow-step-color: #2980b9;
+    --flow-step-border: #b3d9ff;
+    --flow-arrow-color: #7f8c8d;
+    --hero-badge-bg: rgba(255,255,255,0.25);
   }
+}
+
+/* Ensure all text is readable in both themes */
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Additional contrast improvements */
+strong, b {
+  font-weight: 600;
+  color: var(--text-color, inherit);
+}
+
+em, i {
+  font-style: italic;
+  color: var(--text-color, inherit);
+}
+
+/* Ensure links are always visible */
+a {
+  color: var(--link-color, #3498db);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover, #2980b9);
+  text-decoration: underline;
+}
+
+/* Improve readability for small text */
+small {
+  font-size: 0.875em;
+  color: var(--text-muted, inherit);
+  opacity: 0.9;
 }
 </style>
