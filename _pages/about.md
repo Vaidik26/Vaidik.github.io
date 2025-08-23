@@ -66,46 +66,70 @@ My journey lies at the intersection of:
 
 ## 🤝 Let's Connect!  
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  
+  <a href="mailto:vaidiky90@gmail.com" style="text-decoration: none; color: inherit;">
+    <div style="
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px 25px;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      min-width: 200px;
+      text-align: center;
+      border: 2px solid transparent;
+      backdrop-filter: blur(10px);
+    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 15px 35px rgba(102, 126, 234, 0.4)'" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.3)'">
+      <div style="font-size: 2.5em; margin-bottom: 10px;">📧</div>
+      <div style="font-weight: 600; font-size: 1.1em; margin-bottom: 5px;">Email</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">Get in touch</div>
+    </div>
+  </a>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease;">
+  <a href="https://github.com/vaidik26" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      color: white;
+      padding: 20px 25px;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      min-width: 200px;
+      text-align: center;
+      border: 2px solid transparent;
+      backdrop-filter: blur(10px);
+    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 15px 35px rgba(240, 147, 251, 0.4)'" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(240, 147, 251, 0.3)'">
+      <div style="font-size: 2.5em; margin-bottom: 10px;">💻</div>
+      <div style="font-weight: 600; font-size: 1.1em; margin-bottom: 5px;">GitHub</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">View my code</div>
+    </div>
+  </a>
 
-### 📧 **Email**  
-**vaidiky90@gmail.com**  
-*Ready to collaborate on exciting AI/ML projects!*
-
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
-
-### 💻 **GitHub**  
-**[Vaidik26](https://github.com/vaidik26)**  
-*Explore my open-source contributions & projects*
-
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease;">
-
-### 🔗 **Portfolio**  
-**[vaidik26.github.io](https://vaidik26.github.io/Vaidik.github.io//portfolio/)**  
-*View my complete project showcase*
-
-</div>
-
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 1.5rem; border-radius: 12px; box-shadow: 0 8px 32px rgba(67, 233, 123, 0.3); transition: transform 0.3s ease;">
-
-### 💼 **LinkedIn**  
-**[Vaidik Yadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)**  
-*Connect professionally & stay updated*
-
-</div>
-
-</div>
-
-<div style="text-align: center; margin: 2rem 0; padding: 1.5rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
-
-### 🚀 **Ready to Build Something Amazing?**  
-*Let's discuss how we can leverage AI/ML to solve real-world challenges together!*
+  <a href="https://www.linkedin.com/in/vaidik-yadav-260a60248/" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="
+      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+      color: white;
+      padding: 20px 25px;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      min-width: 200px;
+      text-align: center;
+      border: 2px solid transparent;
+      backdrop-filter: blur(10px);
+    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 15px 35px rgba(79, 172, 254, 0.4)'" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(79, 172, 254, 0.3)'">
+      <div style="font-size: 2.5em; margin-bottom: 10px;">💼</div>
+      <div style="font-weight: 600; font-size: 1.1em; margin-bottom: 5px;">LinkedIn</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">Connect professionally</div>
+    </div>
+  </a>
 
 </div>
 
