@@ -1,24 +1,22 @@
 ---
-title: "🛍 Myntra Web Scraper "
+title: "📈 Apple Stock Price Predictor"
 
-excerpt: "Developed a Python-based Myntra web scraper to extract product details, prices, ratings, and reviews, enabling structured data collection for analysis. Implemented efficient parsing with BeautifulSoup and automated pagination handling for large-scale scraping.<br/><img src='/Vaidik.github.io/images/Scraper.png' alt='Stock Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
+excerpt: "Built a deep learning pipeline to forecast Apple’s stock prices using historical market data and technical indicators. Implemented LSTM neural networks for capturing temporal dependencies, with thorough data preprocessing, feature scaling, and sequence generation for accurate predictions.<br/><img src='/Vaidik.github.io/images/stocks.jpeg' alt='Stock Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 
 collection: portfolio
 ---
 
 
-> **🛍 Myntra Web Scraper ** to extract product details, prices, ratings, and reviews from Myntra for data analysis and trend tracking.
+> **End-to-End Deep Learning Pipeline** to forecast Apple stock prices using historical market data and technical indicators.
 
 **🔹 Key Features**
-- 🖥 **BeautifulSoup-based parsing** for efficient HTML data extraction  
-- 🔄 **Automated pagination handling** for large-scale product scraping  
-- 📊 Structured output for **price analysis** and **trend detection**  
-- ⚡ **Optimized request handling** to reduce scraping time  
-- 📂 Data export in **CSV format** for further processing  
+- 🧠 **LSTM Networks** to model temporal dependencies  
+- 📊 Technical indicator-based **feature engineering** (e.g., moving averages, RSI)  
+- 🔄 **Sequence generation** & **sliding window** prep for time-series input  
+- 📐 **Feature scaling** and robust train/test splitting with walk-forward validation  
+- 🧪 Performance evaluation using metrics like RMSE and MAE  
 
-**🛠 Tech Stack:** Python, BeautifulSoup, requests, pandas  
+**🛠 Tech Stack:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, matplotlib  
 
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Myntra_Review_Project)
-
-
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/apple-stock-price-prediction)

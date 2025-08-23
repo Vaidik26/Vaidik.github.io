@@ -1,27 +1,22 @@
 ---
-title: "🥛 Milk Quality Classification"
+title: "💰 Insurance Premium Prediction"
 
-excerpt: "Designed and deployed an end-to-end ML pipeline to predict milk quality (Low / Medium / High) using GradientBoosting. Fully containerized with Docker and version-controlled with DVC for reproducibility.<br/><img src='/Vaidik.github.io/images/milk.jpeg' alt='Milk Quality Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
+excerpt: "Built an ML model to estimate insurance premiums using optimized regression, with Docker & DVC integration.<br/><img src='/Vaidik.github.io/images/insurance.jpeg' alt='Insurance Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 
 collection: portfolio
 ---
 
 
-> **End-to-End ML Pipeline** to classify milk quality (**Low**, **Medium**, **High**) using physicochemical features like pH, temperature, taste, and fat content.
+> **End-to-End ML Pipeline** to predict insurance premiums based on customer demographics and policy details.
 
+**🔹 Key Features**
+- 📈 **CatBoost Regressor** for optimized predictions  
+- 🧹 Robust **data preprocessing** & **feature engineering**  
+- 🐳 **Docker** for containerized deployment  
+- 📦 **DVC** for dataset & model version control  
+- ⚡ Scalable & reproducible design for real-world use  
 
+**🛠 Tech Stack:** Python, scikit-learn, pandas, NumPy, Matplotlib/Seaborn, CatBoost, Docker, DVC  
 
-## 🔹 Key Features
-- 📊 Built using **GradientBoostingClassifier** for high accuracy  
-- 🧹 Extensive **data cleaning** and **feature engineering**  
-- 🐳 **Dockerized** for seamless deployment  
-- 📦 **DVC** for robust data & model version control  
-- ⚡ Designed to be scalable & reproducible  
-
-
-
-## 🛠 Tech Stack
-**Python**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib/Seaborn**, **Docker**, **DVC**
-
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Milk_Quality)
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Insurance_Premium)

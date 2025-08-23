@@ -1,22 +1,21 @@
 ---
-title: "💰 Insurance Premium Prediction"
+title: "📄 Document QnA – Intelligent PDF Question Answering System"
 
-excerpt: "Built an ML model to estimate insurance premiums using optimized regression, with Docker & DVC integration.<br/><img src='/Vaidik.github.io/images/insurance.jpeg' alt='Insurance Image' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
-
+excerpt: "Built an AI-powered Document QnA system that enables users to upload PDF files and ask context-based questions, with responses generated using RAG pipelines and pre-trained LLMs. Designed for seamless document retrieval and QnA interaction.<br/><img src='/Vaidik.github.io/images/document_qna.jpg' alt='Document QnA UI' style='margin-top:10px; border-radius:10px; width:100%; max-width:400px;'/>"
 
 collection: portfolio
 ---
 
+> **AI-powered Document Question Answering System** that allows users to interact with their PDFs by asking natural language questions, retrieving relevant context, and generating precise answers.
 
-> **End-to-End ML Pipeline** to predict insurance premiums based on customer demographics and policy details.
+**🔹 Key Features**  
+- 📤 **PDF Upload Support** with automated preprocessing for text extraction  
+- 💬 **Natural Language Query Handling** using **LLMs** for accurate answers  
+- 📚 **RAG (Retrieval-Augmented Generation)** pipeline for context-driven responses  
+- 🔎 **FAISS-based vector search** for efficient document chunk retrieval  
+- 🖥 **Streamlit-based UI** for an interactive, easy-to-use QnA experience
+- ⚡ **Optimized for scalability** and adaptable for multiple domains (legal, research, business docs)  
 
-**🔹 Key Features**
-- 📈 **CatBoost Regressor** for optimized predictions  
-- 🧹 Robust **data preprocessing** & **feature engineering**  
-- 🐳 **Docker** for containerized deployment  
-- 📦 **DVC** for dataset & model version control  
-- ⚡ Scalable & reproducible design for real-world use  
+**🛠 Tech Stack:** Python, Streamlit, LangChain, Hugging Face Transformers, FAISS, Flask, PyMuPDF
 
-**🛠 Tech Stack:** Python, scikit-learn, pandas, NumPy, Matplotlib/Seaborn, CatBoost, Docker, DVC  
-
-**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Insurance_Premium)
+**🔗 GitHub Repository:** [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26/Document-Q-A)
