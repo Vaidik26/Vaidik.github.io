@@ -22,7 +22,7 @@ repository               : "https://vaidik26.github.io/Vaidik.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  avatar           : "pfp.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Vaidik Yadav"
   pronouns         : "He/Him" # example: "she/her"  
   bio              :  💻 Data Scientist & AI Engineer | 📚 ML, DL, NLP, MLOps, GenAI 
