@@ -9,17 +9,17 @@ redirect_from:
 
 👋 Hey, I’m **Vaidik Yadav**  
 
-📊 **Data Scientist in the making** | 🤖 **AI Engineer** | 🔬 **ML/DL Enthusiast** | ✨ **GenAI Explorer**  
+📊 **Aspiring Data Scientist** | 🤖 **AI Engineer in Training** | 🔬 **ML/DL Enthusiast** | ✨ **GenAI Explorer**  
 
 ---
 
 ## 🚀 Who Am I?  
 
 I’m passionate about **building intelligent systems that learn, reason, and create**.  
-With **1.5+ years of industry experience** as a Data Analyst and a strong academic foundation (**B.Tech CSE – 2025**), I specialize in transforming **raw data → actionable insights → AI-powered solutions**.  
+Currently pursuing **B.Tech in Computer Science (Graduating 2025)**, I’ve built multiple **end-to-end AI projects** that bridge the gap between raw data and real-world solutions.  
 
-My journey lies at the intersection of:  
-> **🧠 Machine Learning** • **🧬 Deep Learning** • **💬 NLP & LLMs** • **✨ Generative AI** • **⚙️ MLOps**  
+My focus lies at the intersection of:  
+> **🧠 Machine Learning** • **🧬 Deep Learning** • **💬 NLP & LLMs** • **✨ Generative AI** • **⚙️ MLOps**
 
 ---
 
